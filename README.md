@@ -88,7 +88,7 @@ Make sure to read and follow the instructions below carefully. Good luck!
   The div#weatherWidget element should only render once a city is requested. Use an inline style to set a display to "none" to hide before making a request.
 
   ❗ In a future task, you will make it so that the display reverts to "block" on successful weather data retrieval.
-
+  
   ---
 
 </details>
